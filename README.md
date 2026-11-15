@@ -6,6 +6,8 @@ Final-year B.Tech CSE student in Nagpur, focused on **avionics, embedded systems
 
 **[Dwarka SkyGate flight computer](https://github.com/YogirajTambule/dwarka-skygate-flight-computer)**: dual-I2C avionics on a Raspberry Pi Pico W (MicroPython), pad-zero altitude from a BMP280, IMU data, and checksummed LoRa telemetry to a laptop ground station. Next up: SD logging, filtering, apogee detection and a custom PCB.
 
+**[DigiBoard](https://github.com/YogirajTambule/DigiBoard)**: interactive HTML, CSS and JavaScript prototype of a virtual classroom app, built by a 5-member team at TGPCET Nagpur (I was team leader). Original repo: [yashgodse056/DigiBoard](https://github.com/yashgodse056/DigiBoard).
+
 ## Toolbox
 
 - **Embedded:** MicroPython, C, RP2040, I2C, UART, SPI, GPIO
