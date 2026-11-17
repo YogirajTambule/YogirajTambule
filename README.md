@@ -2,6 +2,8 @@
 
 Final-year B.Tech CSE student in Nagpur, focused on **avionics, embedded systems and robotics**. I lead the electronics and firmware for **Dwarka SkyGate**, a student-built experimental rocket.
 
+**Portfolio:** [yogirajtambule.github.io](https://yogirajtambule.github.io), with a live demo of the flight computer telemetry pipeline.
+
 ## What I'm building
 
 **[Dwarka SkyGate flight computer](https://github.com/YogirajTambule/dwarka-skygate-flight-computer)**: dual-I2C avionics on a Raspberry Pi Pico W (MicroPython), pad-zero altitude from a BMP280, IMU data, and checksummed LoRa telemetry to a laptop ground station. Next up: SD logging, filtering, apogee detection and a custom PCB.
